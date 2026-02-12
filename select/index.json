@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "君と歩く未来",
+  "base_artist": "Lead",
+  "createdAt": "2026-02-12T15:53:24.123577Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "君と歩く未来",
+      "artist": "Lead",
+      "has_synced": false,
+      "path": "select/pl_01_君と歩く未来_Lead.txt"
+    }
+  ]
+}
